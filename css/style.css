@@ -22,3 +22,61 @@ body{
 .hidden{
     display:none;
 }
+
+#wrap{
+    text-align: center;
+    margin-top: 120px;
+}
+
+input {
+    width: 40vw;
+    font-size: 25px;
+    padding: 10px;
+}
+
+#clock {
+    font-size: 50px;
+    text-align: center;
+    padding:30px 0;
+}
+
+#weather{
+    position: absolute;
+    top: 5%;
+    right: 5%;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+#quote{
+    margin-top: 80px;
+    text-align: center;
+    font-size:25px;
+    color: #fff;
+}
+
+#greeting{
+    margin: 20px 0;
+    font-size: 50px;
+}
+
+#login-form button{
+    padding:11px 12px;
+    font-size:25px;
+    margin-left:-8px;
+    border: 1px solid cadetblue;
+    background: #EEF4FF;
+}
+
+#todo-list span{
+    font-size:30px;
+}
+
+#todo-list li button{
+    padding:10px;
+    margin-left:20px;
+    color: red;
+    border: none;
+    background: none;
+    font-size:40px;
+}
