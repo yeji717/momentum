@@ -1,0 +1,24 @@
+body{
+    background-color:beige;
+}
+
+*{
+    margin:0;
+    padding:0;
+}
+
+.yellow{
+    background: yellow;
+}
+
+.blue{
+    background: blue;
+}
+
+.pink{
+    background-color: pink;
+}
+
+.hidden{
+    display:none;
+}
